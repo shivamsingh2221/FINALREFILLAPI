@@ -557,3 +557,16 @@ INFO  09:14:28 Hosting environment: Development
 INFO  09:14:28 Content root path: C:\Users\user\Desktop\MFPE\NEW REFILLAPI
 INFO  09:14:28 Content root path: C:\Users\user\Desktop\MFPE\NEW REFILLAPI
 INFO  09:14:34 RefillStatus Method that Called ID is 2
+INFO  09:37:40 Application started. Press Ctrl+C to shut down.
+INFO  09:37:40 Application started. Press Ctrl+C to shut down.
+INFO  09:37:40 Hosting environment: Development
+INFO  09:37:40 Hosting environment: Development
+INFO  09:37:40 Content root path: C:\Users\user\Desktop\MFPE\NEW REFILLAPI
+INFO  09:37:40 Content root path: C:\Users\user\Desktop\MFPE\NEW REFILLAPI
+INFO  09:38:03 AdhocRefill Method Called Susbcription Id 1
+INFO  09:38:21 AdhocRefill Method Called Susbcription Id 1
+INFO  09:38:33 AdhocRefill Method Called Susbcription Id 3
+INFO  09:38:39 AdhocRefill Method Called Susbcription Id 1
+INFO  09:38:42 AdhocRefill Method Called Susbcription Id 3
+INFO  09:38:45 AdhocRefill Method Called Susbcription Id 1
+INFO  09:38:48 AdhocRefill Method Called Susbcription Id 1
